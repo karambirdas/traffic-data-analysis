@@ -1,2 +1,2 @@
 # traffic-data-analysis
-This is the code we used in the paper "The road layout in the KPZ class" to analysis our results of traffic system.
+This is the code we used in our paper, "The road layout in the KPZ class", to analyse our results of the traffic system.
